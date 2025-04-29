@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Daftar Harga Barang PT Colagrc</h2>
+
+<table>
+  <tr>
+    <th>Nama Barang</th>
+    <th>Spesifikasi</th>
+    <th>Harga</th>
+  </tr>
+  <tr>
+    <td>Kursi Ergonomis Elite</td>
+    <td>Berbahan kayu</td>
+    <td>Rp 970.000</td>
+  </tr>
+  <tr>
+    <td>Lemari Arsip</td>
+    <td>Berbahan besi</td>
+    <td>Rp 2.530.000</td>
+  </tr>
+  <tr>
+    <td>Loker Karyawan</td>
+    <td>Berbahan besi</td>
+    <td>Rp 1.500.000</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
